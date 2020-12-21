@@ -593,3 +593,4 @@ killall -HUP tor
 done
 exit 1
 esac
+cd instainsane
